@@ -11,7 +11,7 @@ ignoreFiles = ["^README\\.md$", "^\\.Rhistory$", "\\.Rmd$", "\\.Rmarkdown$", "_f
 [params]
 Name = "R/Medicine 2019"
 Description = "R/Medicine 2019"
-Date = "September 19-21 2019"
+Date = "September 12-14 2019"
 Venue = "The Omni Hotel"
 Organizers = "Brought to you by the Yale School of Public Health Biostatistics Department and the R Consortium"
 Address = "155 Temple Street"
