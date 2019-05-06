@@ -12,16 +12,18 @@ ignoreFiles = ["^README\\.md$", "^\\.Rhistory$", "\\.Rmd$", "\\.Rmarkdown$", "_f
 Name = "R/Medicine 2019"
 Description = "R/Medicine 2019"
 Date = "September 12-14 2019"
-Venue = "The Omni Hotel"
+Venue = "The Omni Parker Hotel"
 Organizers = "Brought to you by the Yale School of Public Health Biostatistics Department and the R Consortium"
-Address = "155 Temple Street"
-City = "New Haven"
-State = "CT"
+Address = "60 School Street"
+City = "Boston"
+State = "MA"
 
 Sections = [
   "about",
-  "keynotes",
+  "key_dates",
+#  "keynotes",
   "location",
+  "registration",
   "schedule",
   "sponsors",
   "r_medicine_2018",
@@ -31,12 +33,17 @@ Sections = [
 
   [params.Titles]
   about = "About"
-  keynotes = "Keynotes"
+  key_dates = "Key Dates"
+#  keynotes = "Keynotes"
   location = "Location"
+  registration = "Registration"
   schedule = "Program"
   sponsors = "Sponsors"
   committee = "Committee"
   r_medicine_2018 = "R/Medicine 2018"
   contact = "Contact"
 
-  
+[CallToAction]
+    text = "Submit an Abstract"
+    link = "https://docs.google.com/forms/d/e/1FAIpQLSdMVjVFye5tYR7utNCoSqo94jcou_m-RtPbD9E1hTTXAGup0w/viewform?usp=sf_link"
+ 
